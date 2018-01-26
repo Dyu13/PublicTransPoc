@@ -1,0 +1,94 @@
+[
+  {
+    "guid": "982d9a37-f26a-4bae-8dcd-7f079117cf4c",
+    "name": "X55",
+    "stations": [
+      "Canada Water",
+      "Victoria",
+      "Crystal Palace",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "e23ee147-96e0-4a67-aa33-693614af2106",
+    "name": "A30",
+    "stations": [
+      "Canning Town",
+      "Victoria",
+      "Crystal Palace",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "42ee969e-4cf8-4617-b57b-61bb425ae344",
+    "name": "XC10",
+    "stations": [
+      "Stratford",
+      "Canning Town",
+      "Victoria",
+      "Crystal Palace"
+    ]
+  },
+  {
+    "guid": "cce05f6a-b3b5-4bcf-9b14-b2950d75cbf6",
+    "name": "A60",
+    "stations": [
+      "Becontree Heath",
+      "Victoria",
+      "Crystal Palace",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "0c78c4bd-342d-4ad5-9d14-bc3e046ed7b3",
+    "name": "X30",
+    "stations": [
+      "Aldgate",
+      "Beckton",
+      "Becontree Heath",
+      "Canning Town",
+      "Brent Cross",
+      "Chingford",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "417e8a0a-1ece-459c-bed0-33d276b380eb",
+    "name": "A20",
+    "stations": [
+      "Stratford",
+      "Brent Cross",
+      "Canning Town",
+      "Canada Water",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "7c5067e8-f68d-45c6-a4da-1809cdce261e",
+    "name": "X60",
+    "stations": [
+      "Crystal Palace",
+      "Canning Town",
+      "Victoria",
+      "Becontree Heath"
+    ]
+  },
+  {
+    "guid": "41056ac0-9910-4164-92f4-c81a6638fef6",
+    "name": "XBA12",
+    "stations": [
+      "Chingford",
+      "Victoria",
+      "Crystal Palace",
+      "Stratford"
+    ]
+  },
+  {
+    "guid": "99e707f4-145a-4ee2-ba85-b4d90728c1fd",
+    "name": "XC60",
+    "stations": [
+      "Becontree Heath",
+      "Chingford"
+    ]
+  }
+]
